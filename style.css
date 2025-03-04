@@ -1,0 +1,30 @@
+.swiper {
+    width: 600px;
+    height: 619px;
+  }
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-button-prev {
+    background-color: none;
+    color: white;
+    border: 2px solid white;
+    padding: 30px 30px;
+    border-radius: 100%;
+}
+
+.swiper-button-next {
+    background-color: none;
+    color: white;
+    border: 2px solid white;
+    padding: 30px 30px;
+    border-radius: 100%;
+}
+
+body {
+    transition: background 0.5s ease-in-out;
+}
